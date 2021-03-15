@@ -88,5 +88,4 @@ docker run \
 ```
 
 ### 赞赏码(整理不易，请赏杯茶水费)
-<div align=center><img width="250" height="250" src="https://itwhs.github.io/img/reward/wechat.png"/></div>
-<div align=center><img width="250" height="250" src="https://itwhs.github.io/img/reward/alipay.jpg"/></div>
+<div align=center><img width="250" height="250" src="https://itwhs.github.io/img/reward/wechat.png"/></div> <div align=center><img width="250" height="250" src="https://itwhs.github.io/img/reward/alipay.jpg"/></div>
