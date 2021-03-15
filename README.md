@@ -86,5 +86,7 @@ docker run \
 ## 指定任务模式，可以指定仅需要运行的子任务，多用户使用规则参看`多用户配置`
 #增加 --tasks taskName1,taskName2,taskName3
 ```
-![微信赞赏码](https://k3c.top/img/reward/wechat.png)
-![支付宝赞赏](https://k3c.top/img/reward/alipay.jpg)
+
+### 赞赏码(整理不易，请赏杯茶水费)
+<div align=center><img width="250" height="250" src="https://itwhs.github.io/img/reward/wechat.png"/></div>
+<div align=center><img width="250" height="250" src="https://itwhs.github.io/img/reward/alipay.jpg"/></div>
