@@ -57,7 +57,7 @@ docker run \
 ### crontab 任务示例
 在4-23小时之间每隔三十分钟尝试运行可运行的脚本子任务
 ```txt
-*/30 4-23 * * * /bin/node /AutoSignMachine/index.js unicom --user 1******5 --password 7****** --appid 1************9
+*/30 4-23 * * * node /AutoSignMachine/index.js unicom --user 1******5 --password 7****** --appid 1************9
 ```
 
 ### 多用户配置
